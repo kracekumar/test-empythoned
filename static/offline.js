@@ -32,7 +32,7 @@ $(function(){
         return editor;        
     };
     //update the output
-    var  updateOutput= function(output){
+    var updateOutput = function(output){
             $(".output").append(output.data);
     };
 
