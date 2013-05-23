@@ -1,4 +1,4 @@
-;(function () {
+(function () {
 	self.console = {
 		log: function () {}
 	};
